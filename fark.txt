@@ -1,0 +1,17 @@
+bilgiler.txt boyut farký: 17 bayt
+bilgiler2.txt boyut farký: 1566 bayt
+
+bilgiler.txt boyut farki: 17 bayt
+bilgiler2.txt boyut farki: 18 bayt
+bilgiler.txt boyut farki: 17 bayt
+bilgiler2.txt boyut farki: 36 bayt
+bilgiler.txt boyut farki: 0 bayt
+bilgiler2.txt boyut farki: 18 bayt
+bilgiler.txt boyut farki: 0 bayt
+bilgiler2.txt boyut farki: 18 bayt
+bilgiler.txt boyut farki: 17 bayt
+bilgiler2.txt boyut farki: 90 bayt
+bilgiler.txt boyut farki: 0 bayt
+bilgiler2.txt boyut farki: 18 bayt
+bilgiler.txt boyut farki: 0 bayt
+bilgiler2.txt boyut farki: 18 bayt
